@@ -8,6 +8,8 @@ Custom Tekton Chart
 
 ## Maintainers
 
+
+
 | Name | Email | Url |
 | ---- | ------ | --- |
 | epmd-edp | <SupportEPMD-EDP@epam.com> | <https://solutionshub.epam.com/solution/epam-delivery-platform> |
